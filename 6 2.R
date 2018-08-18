@@ -1,6 +1,6 @@
 #Assignment 6.2
 
-# Is there any difference in fares by different class of tickets?
+# Is there any difference in fares by different class of tickets
 #Note - Show a boxplot displaying the distribution of fares by class
 
 TitanicData <- read.csv("C:/Ayush Yuvraj/Assignment6/TitanicData.txt", header=FALSE)
